@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "APP_NAME": "dooboolab",
+  "GO_TO_RESULT": "Go to Result screen",
+  "GO_TO_SAMPLE": "Go to Sample screen",
+  "RESULT": "Result",
+  "WARNING": "Warning",
+  "ERROR": "Error",
+  "LOADING": "Loading...",
+  "COUNT": "Count",
+  "GYM": "I want to register my gym!",
+  "USER": "I want to workout!"
+}
